@@ -1,0 +1,5 @@
+export MMEP=
+export MMTEAM=
+export MMMAIL=
+export MMPASS=
+export MMDEBUG=FALSE
